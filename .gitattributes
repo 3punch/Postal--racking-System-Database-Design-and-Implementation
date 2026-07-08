@@ -1,2 +1,2 @@
-*.pdf linguist-vendored
+*.pdf linguist-detectable=false
 *.sql linguist-language=SQL
